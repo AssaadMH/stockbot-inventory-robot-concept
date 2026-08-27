@@ -22,5 +22,5 @@ CONCEPT - a design and business-model study, not built hardware.
 
 ## Author
 
-Lassaad Mahmoudi — <contact@iris-systems.tn>  
+Lassaad Mahmoudi — <assaadmahmoudi0@gmail.com>  
 https://linkedin.com/in/mahmoudiassaad
