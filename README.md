@@ -27,4 +27,4 @@ CONCEPT - a design and business-model study, not built hardware.
 ## Author
 
 Lassaad Mahmoudi — <assaadmahmoudi0@gmail.com>  
-https://linkedin.com/in/mahmoudiassaad
+https://linkedin.com/in/mahmoudi-assaad
