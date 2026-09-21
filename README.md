@@ -20,6 +20,10 @@ docs/
 
 CONCEPT - a design and business-model study, not built hardware.
 
+## Documents
+
+- [`docs/STOCKBOT.pdf`](docs/STOCKBOT.pdf): the 16-slide pitch deck (EN) presented by Mahmoudi Assaad for the **YAS'INNOV** programme. It covers the problem, the product, customer segments, value proposition, channels, revenue streams, key activities, resources and partners, cost structure and impact. The images were recompressed for the repository.
+
 ## Author
 
 Lassaad Mahmoudi — <assaadmahmoudi0@gmail.com>  
